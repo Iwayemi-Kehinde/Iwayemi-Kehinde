@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Iwayemi Kehinde, a assionate blockchain developer adept in full-stack website and mobile application development. 
-- 🌱 I’m currently into Programming, with the use of JavaScript, Go, TypeScript, Solidity
-- 👀 Web(React.js, Next.js, tailwind css)
-- 💞️ Ask me any thing about coding in Blockchain Development
-- 📫 How to reach me: iwayemikehinde1@gmail.com
-- 💞️ I’m looking to Co-create on any project using Various technologies i have used so
-<!---
-Iwayemi-Kehinde/Iwayemi-Kehinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 👋 Hi, I’m Iwayemi Kehinde, a passionate blockchain developer skilled in full-stack web and mobile app development.
+- 🌱 Currently exploring the realms of JavaScript, Go, TypeScript, and Solidity.
+- 💞️ Ask me anything about coding in Blockchain Development.
+- 📫 Reach me at: iwayemikehinde1@gmail.com
+- 💼 Open to collaborative projects using a diverse tech stack.
+- 🚀 Let's build something extraordinary together!
