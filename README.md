@@ -1,15 +1,13 @@
-👋 Hi there! I'm Kehinde Iwayemi, a 15-year-old software developer from Nigeria.
+### 👋 Hi, I'm **Kehinde Iwayemi**—a 16-year-old software developer from Nigeria.
 
-🌟 Passionate about coding, exploring new technologies, and contributing to open-source projects.
+💻 I have been passionate about coding since the age of 11, and now I'm well-versed in the **MERN stack**, **Go**, **TypeScript**, and **C++**, with hands-on experience in **blockchain development** using **Solidity**. I love diving deep into complex systems and solving challenging problems.  
 
-🛠️ Skilled in MERN stack, Go, TypeScript, C++, and blockchain development with Solidity.
+🌱 I'm constantly exploring new technologies, staying updated with the latest trends, and contributing to **open-source projects**. My long-term goal is to push innovation in areas like **neuromorphic systems** and the **metaverse**.
 
-🎮 When I'm not coding, you'll find me playing games or enjoying good food.
+🎮 Outside of coding, I enjoy playing games, eating good food, and envisioning a brighter future for Nigeria’s tech landscape. 
 
-🙏 I live with a deep respect and fear of GOD.
+🙏 Guided by my faith and a strong respect for GOD, I strive to make an impact through technology and inspire young developers around the world.
 
-
-## 🌐 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemi-kehinde/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/K61145Iwayemi)
