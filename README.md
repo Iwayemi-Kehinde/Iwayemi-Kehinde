@@ -8,12 +8,10 @@
 
 🙏 Guided by my faith and a strong respect for GOD, I strive to make an impact through technology and inspire young developers around the world.
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemi-kehinde/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/K61145Iwayemi)
 
-
-## 🛠️ Technology i have used
+## 🛠️ Technology I have used
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
@@ -28,15 +26,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 
-
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwayemi-Kehinde&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwayemi-Kehinde&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 
 ## 📬 Contact Me
