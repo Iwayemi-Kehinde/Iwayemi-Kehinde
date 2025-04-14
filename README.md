@@ -1,12 +1,22 @@
-### 👋 Hi, I'm **Kehinde Iwayemi**—a 16-year-old software developer from Nigeria.
+# 👋 Hey, I’m Kehinde Iwayemi — a 16-year-old software developer and future tech leader from Nigeria.
 
-💻 I have been passionate about coding since the age of 11, and now I'm well-versed in the **MERN stack**, **Go**, **TypeScript**, and **C++**, with hands-on experience in **blockchain development** using **Solidity**. I love diving deep into complex systems and solving challenging problems.  
+## 💻 My Journey
+I started coding at 13, and today I’m skilled in the **MERN stack**, while actively mastering **blockchain development** and **data structures & algorithms** with **JavaScript**.  
+Up next: diving into **Go** to sharpen my backend expertise even further.  
+I believe real innovation starts early — and I’m here to prove it.
 
-🌱 I'm constantly exploring new technologies, staying updated with the latest trends, and contributing to **open-source projects**. My long-term goal is to push innovation in areas like **neuromorphic systems** and the **metaverse**.
+## 🌱 How I Grow
+I stay ahead by constantly learning, building real-world projects, and contributing to open-source communities.
 
-🎮 Outside of coding, I enjoy playing games, eating good food, and envisioning a brighter future for Nigeria’s tech landscape. 
+## 🎯 My Mission
+My mission is to help shape the future of technology in Nigeria and beyond — inspiring a new generation of young creators, thinkers, and builders.
 
-🙏 Guided by my faith and a strong respect for GOD, I strive to make an impact through technology and inspire young developers around the world.
+## 🎮 Beyond Coding
+Outside of coding, I love gaming and eating good food.
+
+## 🙏 Guided by Faith
+Guided by faith and a deep respect for **GOD**, I’m committed to using my skills to make a real difference.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemi-kehinde/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/K61145Iwayemi)
@@ -19,7 +29,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
