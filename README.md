@@ -1,19 +1,19 @@
-<h2 align="left">Hi, I'm Kehinde Iwayemi 👋</h2>
+<h3 align="left">Hi, I'm Kehinde Iwayemi 👋</h3>
 
 <p align="left">
-  <strong>17 y/o Full-Stack Developer (MERN + Go + Solidity)</strong><br/>
-  OSS Contributor • Blockchain Enthusiast • Embedded Systems Developer
+  <em>17 y/o Full-Stack Developer (MERN + Go + Solidity)</em><br/>
+  OSS Contributor • Blockchain & Embedded Systems Enthusiast
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iwayemi-kehinde/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/K61145Iwayemi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:iwayemikehinde1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -21,58 +21,62 @@
 
 ### 🧠 About Me
 
-#### - ⚡ I'm a passionate full-stack developer with 3+ years of experience in building real-world projects using **React, Node.js, and Go**.
-#### - 🔐 I also work with **Solidity** to build smart contracts
-#### - 🚀 I love contributing to open-source and solving complex problems with clean architecture and efficient code.
-#### - 🙏 Guided by **faith in God**, I aim to use my skills to build up my start up
+- 🛠️ Building real-world software with **React**, **Node.js**, **Go**, and **MongoDB**
+- 💡 Writing smart contracts using **Solidity**
+- 📦 Contributing to open-source and solving hard backend problems
+- 🙏 Guided by faith — building solutions with purpose and impact
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) 
-![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go) 
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus) 
-![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity) 
+**Languages**:  
+<sub>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript) 
+  ![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go) 
+  ![C++](https://img.shields.io/badge/-C++-111?style=flat&logo=cplusplus) 
+  ![Solidity](https://img.shields.io/badge/-Solidity-111?style=flat&logo=solidity)
+</sub>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) 
+**Frontend**:  
+<sub>
+  ![React](https://img.shields.io/badge/-React-111?style=flat&logo=react) 
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-111?style=flat&logo=tailwindcss) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3)
+</sub>
 
-**Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)  
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)  
-
-**Other Tools:**  
-Git • GitHub • VS Code • Postman • Vercel • Render
+**Backend & Tools**:  
+<sub>
+  ![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js) 
+  ![Express.js](https://img.shields.io/badge/-Express.js-111?style=flat&logo=express) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb) 
+  ![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker) 
+  ![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)
+</sub>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iwayemi-Kehinde&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwayemi-Kehinde&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iwayemi-Kehinde&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwayemi-Kehinde&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=tokyonight&hide_border=true" width="95%" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 🤝 Let’s Connect
 
-- Email: **iwayemikehinde1@gmail.com**  
-- Twitter: [@K61145Iwayemi](https://twitter.com/K61145Iwayemi)  
-- LinkedIn: [linkedin.com/in/iwayemi-kehinde](https://www.linkedin.com/in/iwayemi-kehinde/)
+- 📧 Email: [iwayemikehinde1@gmail.com](mailto:iwayemikehinde1@gmail.com)  
+- 🐦 Twitter: [@K61145Iwayemi](https://twitter.com/K61145Iwayemi)  
+- 💼 LinkedIn: [iwayemi-kehinde](https://www.linkedin.com/in/iwayemi-kehinde/)
 
 ---
 
-> 🧑🏽‍💻 “Consistency beats talent when talent stops being consistent.” — Stay sharp, keep building.
+<sub>🧠 “Consistency beats talent when talent stops being consistent.” — Stay sharp, stay building.</sub>
