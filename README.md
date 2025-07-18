@@ -1,11 +1,11 @@
-<h2 align="center">Hi, I'm Kehinde Iwayemi 👋</h2>
+<h2 align="left">Hi, I'm Kehinde Iwayemi 👋</h2>
 
-<p align="center">
+<p align="left">
   <strong>17 y/o Full-Stack Developer (MERN + Go + Solidity)</strong><br/>
   OSS Contributor • Blockchain Enthusiast • Embedded Systems Developer
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/iwayemi-kehinde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
@@ -21,10 +21,10 @@
 
 ### 🧠 About Me
 
-- ⚡ I'm a passionate full-stack developer with 3+ years of experience in building real-world projects using **React, Node.js, and Go**.
-- 🔐 I also work with **Solidity** to build smart contracts
-- 🚀 I love contributing to open-source and solving complex problems with clean architecture and efficient code.
-- 🙏 Guided by **faith in God**, I aim to use my skills to build up my start up
+#### - ⚡ I'm a passionate full-stack developer with 3+ years of experience in building real-world projects using **React, Node.js, and Go**.
+#### - 🔐 I also work with **Solidity** to build smart contracts
+#### - 🚀 I love contributing to open-source and solving complex problems with clean architecture and efficient code.
+#### - 🙏 Guided by **faith in God**, I aim to use my skills to build up my start up
 
 ---
 
