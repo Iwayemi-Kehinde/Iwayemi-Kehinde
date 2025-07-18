@@ -1,19 +1,22 @@
-## 👋 Hey, I’m Kehinde Iwayemi — A 16-year-old software developer from Nigeria passionate about building the future of tech.
+### Hi, I'm Kehinde Iwayemi
+💻 15 y/o full-stack MERN + Blockchain dev | 2+ yrs experience | OSS contributor
+🚀 Built production-grade systems using React, Go, C++
+🔥 Blockchain, Embedded & OS enthusiast
 
-### 🌱 How I Grow
+#### 🌱 How I Grow
 I stay ahead by constantly learning, building real-world projects, and contributing to open-source communities.
 
-### 🎮 Beyond Coding
+#### 🎮 Beyond Coding
 Outside of coding, I love gaming and eating good food.
 
-### 🙏 Guided by Faith
+#### 🙏 Guided by Faith
 Guided by faith and a deep respect for **GOD**, I’m committed to using my skills to make a real difference.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemi-kehinde/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/K61145Iwayemi)
 
-### 🛠️ Technology I have used
+#### 🛠️ Technology I have used
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
@@ -35,7 +38,7 @@ Guided by faith and a deep respect for **GOD**, I’m committed to using my skil
 
 
 
-### 📬 Contact Me
+#### 📬 Contact Me
 
 - **Email:** iwayemikehinde1@gmail.com
 
