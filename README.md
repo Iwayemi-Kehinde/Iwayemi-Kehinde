@@ -23,8 +23,8 @@
 
 - 🛠️ Building real-world software with **React**, **Node.js**, **Go**, and **MongoDB**
 - 💡 Writing smart contracts using **Solidity**
-- 📦 Contributing to open-source and solving hard backend problems
-- 🙏 Guided by faith — building solutions with purpose and impact
+- 📦 Open-source contributor | Solving DSA problems with TypeScript
+- 🙏 Guided by faith — building solutions with purpose
 
 ---
 
@@ -63,11 +63,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iwayemi-Kehinde&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwayemi-Kehinde&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iwayemi-Kehinde&theme=tokyonight&hide_border=true" width="95%" />
-</p>
+
 
 ---
 
