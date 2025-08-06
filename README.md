@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-- 🛠️ Building real-world software with **React**, **Node.js**, **Go**, and **MongoDB**
+- 🛠️ Building real-world software with **React**, **Node.js**, **Go**, **C++** and **MongoDB**
 - 💡 Writing smart contracts using **Solidity**
 - 📦 Open-source contributor | Solving DSA problems with TypeScript
 - 🙏 Guided by faith — building solutions with purpose
