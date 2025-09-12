@@ -1,21 +1,10 @@
 <h3 align="left">Hi, I'm Kehinde Iwayemi 👋</h3>
 
 <p align="left">
-  <em>17 y/o Full-Stack Developer (MERN + Go + Solidity)</em><br/>
+  <em>18 y/o Full-Stack Developer (MERN + Go + Solidity)</em><br/>
   OSS Contributor • Blockchain & Embedded Systems Enthusiast
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iwayemi-kehinde/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/K61145Iwayemi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:iwayemikehinde1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
