@@ -55,4 +55,4 @@
 
 ---
 
-<sub>🧠 “Consistency beats talent when talent stops being consistent.” — Stay sharp, stay building.</sub>
+<sub>Early dev years are for building — protect your focus, build now, enjoy later. 🧠</sub>
