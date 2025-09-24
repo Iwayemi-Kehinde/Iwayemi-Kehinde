@@ -1,21 +1,14 @@
 <h3 align="left">Hi, I'm Kehinde Iwayemi 👋</h3>
 
 <p align="left">
-  <em>18 y/o Full-Stack Developer (MERN + Go + Solidity)</em><br/>
-  OSS Contributor • Blockchain & Embedded Systems Enthusiast
+  <em>18 y/o • Programmer, (MERN) • Go & Solidity Enthusiast</em><br/>
+  Open-Source Contributor • Passionate about Blockchain & Embedded Systems
 </p>
 
 
----
-
-### 🧠 About Me
-
-- 🛠️ Building real-world software with **React**, **Node.js**, **Go**, **C++** and **MongoDB**
-- 💡 Writing smart contracts using **Solidity**
-- 📦 Open-source contributor | Solving DSA problems with TypeScript
-- 🙏 Guided by faith — building solutions with purpose
 
 ---
+
 
 ### 🧰 Tech Stack
 
