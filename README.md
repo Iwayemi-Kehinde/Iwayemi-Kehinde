@@ -1,7 +1,7 @@
 <h3 align="left" style="font-family: 'Trebuchet MS', sans-serif;">Hi, I'm Kehinde Iwayemi 👋</h3>
 
 <p align="left" style="font-family: 'Trebuchet MS', sans-serif;">
-  <em>17, Builder 🇩🇪 • (MERN) • Go & Blockchain Technology Enthusiast</em><br/>
+  <em>18, Builder (MERN) • Go & Blockchain Technology Enthusiast</em><br/>
 </p>
 
 ---
